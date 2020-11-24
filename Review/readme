@@ -3,4 +3,13 @@ accept by IEEE Transactions on Cognitive and Developmental Systems
 Title: 
 Approaches, Challenges, and Applications for Deep Visual Odometry: Toward to Complicated and Emerging Areas
 Abstract:
-Visual odometry (VO) is a prevalent way to deal with the relative localization problem, which is becoming increasingly mature and accurate, but it tends to be fragile under challenging environments. Comparing with classical geometry-based methods, deep learning-based methods can automatically learn effective and robust representations, such as depth, optical flow, feature, ego-motion, etc., from data without explicit computation. Nevertheless, there still lacks a thorough review of the recent advances of deep learning-based VO (Deep VO). Therefore, this paper aims to gain a deep insight on how deep learning can profit and optimize the VO systems. We first screen out a number of qualifications including accuracy, efficiency, scalability, dynamicity, practicability, and extensibility, and employ them as the criteria. Then, using the offered criteria as the uniform measurements, we detailedly evaluate and discuss how deep learning improves the performance of VO from the aspects of depth estimation, feature extraction and matching, pose estimation. We also summarize the complicated and emerging areas of Deep VO, such as mobile robots, medical robots, augmented and virtual reality, etc. Through the literature decomposition, analysis, and comparison, we finally put forward a number of open issues and raise some future research directions in this field.
+Visual odometry (VO) is a prevalent way to deal with the relative localization problem, which is becoming increasingly mature and accurate, 
+but it tends to be fragile under challenging environments. Comparing with classical geometry-based methods, deep learning-based methods can 
+automatically learn effective and robust representations, such as depth, optical flow, feature, ego-motion, etc., from data without explicit 
+computation. Nevertheless, there still lacks a thorough review of the recent advances of deep learning-based VO (Deep VO). Therefore, this 
+paper aims to gain a deep insight on how deep learning can profit and optimize the VO systems. We first screen out a number of qualifications 
+including accuracy, efficiency, scalability, dynamicity, practicability, and extensibility, and employ them as the criteria. Then, using the 
+offered criteria as the uniform measurements, we detailedly evaluate and discuss how deep learning improves the performance of VO from the aspects 
+of depth estimation, feature extraction and matching, pose estimation. We also summarize the complicated and emerging areas of Deep VO, such as 
+mobile robots, medical robots, augmented and virtual reality, etc. Through the literature decomposition, analysis, and comparison, we finally 
+put forward a number of open issues and raise some future research directions in this field.
